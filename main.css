@@ -1,11 +1,12 @@
 body {
-  margin: 10px auto;
+  margin: 5px auto;
   max-width: 1000px;
   font-family: 'Open Sans', sans-serif;
-  line-height: 1.5;
-  padding: 20px 30px;
+  line-height: 1;
+  padding: 10px 20px;
   text-align: left;
+}
 
-  h1 {
-    padding: 20px 0px 10px 0px;
-  }
+h1 {
+  padding: 20px 0px 10px 0px;
+}
