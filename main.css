@@ -10,3 +10,16 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
 }
+
+.photos {
+  text-align: left;
+  padding: 30px 30px;
+}
+
+.captions {
+  text-align: center;
+}
+
+.video {
+  text-align: left;
+}
