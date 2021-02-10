@@ -27,6 +27,7 @@ h4 {
 }
 
 #cruisingtxt{
+  padding-top: 150px;
   grid-column-start: 2;
   grid-column-end: 1;
   grid-row-start: 1;
@@ -35,6 +36,7 @@ h4 {
 }
 
 #cruisingvid{
+  padding: 30px;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 1;
@@ -43,6 +45,7 @@ h4 {
 }
 
 #mauitxt{
+  padding-top: 150px;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 2;
@@ -51,6 +54,7 @@ h4 {
 }
 
 #mauivid{
+  padding: 30px;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 2;
@@ -58,6 +62,7 @@ h4 {
   text-align: right;
 }
 #dogtxt{
+  padding-top: 150px;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 3;
@@ -66,13 +71,16 @@ h4 {
 }
 
 #dogvid{
+  padding: 30px;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 3;
   grid-row-end: 4;
   text-align: right;
 }
+
 #lifetxt{
+  padding-top: 150px;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 4;
@@ -81,6 +89,7 @@ h4 {
 }
 
 #lifevid{
+  padding: 30px;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 4;
@@ -88,6 +97,7 @@ h4 {
   text-align: right;
 }
 #memoriestxt{
+  padding-top: 150px;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 5;
@@ -96,6 +106,7 @@ h4 {
 }
 
 #memoriesvid{
+  padding: 30px;
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 5;
